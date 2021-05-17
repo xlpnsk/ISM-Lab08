@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab08</string>
+
+    <string name="skladuj">SKŁADUJ</string>
+    <string name="wydaj">WYDAJ</string>
+    <string name="historia">Historia:</string>
+</resources>
